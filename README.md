@@ -1,5 +1,5 @@
 # CloudFlareScan (ipv4&ipv6)  
-CloudFlare 扫描器 （简称CFS)  适配 Win  macOS
+CloudFlare 扫描器 （简称CFS)  根据小琳的代码打包适配 linux
 
 ⚠️提示：本工具仅供学习和合法网络测速，请遵守当地法律法规，造成的一切后果自负。
 
@@ -22,10 +22,7 @@ CloudFlare 扫描器 （简称CFS)  适配 Win  macOS
 
 使用方法：
 
-win-X64 直接下载使用
+linux-X64 直接下载解压使用
 
-macOS arm 安装提前 需要将安全性与隐私里-选择允许从任何来源
-
-终端输入命令：sascript -e 'do shell script "sudo spctl --master-disable" with administrator privileges'
 
 
